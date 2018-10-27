@@ -1,0 +1,36 @@
+{
+  "name": "forest-sort",
+  "version": "0.1.0",
+  "description": "Using Random Forest to learn how to sort",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glavin001/forest-sort.git"
+  },
+  "keywords": [
+    "random",
+    "forest",
+    "sort",
+    "compare",
+    "comparison",
+    "sorting",
+    "learn"
+  ],
+  "author": "Glavin Wiechert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Glavin001/forest-sort/issues"
+  },
+  "homepage": "https://github.com/Glavin001/forest-sort#readme",
+  "dependencies": {
+    "ml-fnn": "^4.0.0",
+    "ml-random-forest": "^1.0.3"
+  },
+  "devDependencies": {
+    "ml-dataset-iris": "^1.0.0"
+  }
+}
