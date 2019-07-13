@@ -28,7 +28,7 @@
   "homepage": "https://github.com/Glavin001/forest-sort#readme",
   "dependencies": {
     "ml-fnn": "^4.0.0",
-    "ml-random-forest": "^1.0.3"
+    "ml-random-forest": "^2.0.0"
   },
   "devDependencies": {
     "ml-dataset-iris": "^1.0.0"
