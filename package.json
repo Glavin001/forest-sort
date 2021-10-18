@@ -31,6 +31,6 @@
     "ml-random-forest": "^1.0.3"
   },
   "devDependencies": {
-    "ml-dataset-iris": "^1.0.0"
+    "ml-dataset-iris": "1.2.1"
   }
 }
